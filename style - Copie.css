@@ -1,0 +1,107 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgba(137, 43, 226, 0.884);
+}
+
+.navbarr {
+    padding: 20px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.navbarr a {
+    font-size: 35px;
+    color: white;
+}
+
+
+nav {
+    
+
+}
+
+.noir { 
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+
+}
+
+.container {
+    display: flex;
+    padding: 120px;
+    color: white;
+    justify-content: space-between;
+}
+
+.container h2 {
+    font-size: 60px;
+}
+.container h4 {
+    font-size: 30px;
+}
+
+.container p {
+    font-size: 18px;
+}
+
+.container img {
+    width: 765px;
+    height: 900px;
+}
+.cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 22px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.icone {
+   display: flex;
+   justify-content: center;
+   gap: 70px;
+   padding-top: 15px;
+}
+
+.pays .drapeau {
+    width: 160px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

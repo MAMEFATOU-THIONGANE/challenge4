@@ -1,0 +1,378 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgba(137, 43, 226, 0.884);
+}
+
+.navbarr {
+    padding: 20px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.navbarr a {
+    font-size: 35px;
+    color: white;
+}
+
+
+nav {
+    
+
+}
+
+.noir { 
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+
+}
+
+.container {
+    display: flex;
+    padding: 120px;
+    color: white;
+    justify-content: space-between;
+}
+
+.container h2 {
+    font-size: 60px;
+}
+.container h4 {
+    font-size: 30px;
+}
+
+.container p {
+    font-size: 18px;
+}
+
+.container img {
+    width: 765px;
+    height: 900px;
+}
+.cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 22px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.icone {
+   display: flex;
+   justify-content: center;
+   gap: 70px;
+   padding-top: 15px;
+   padding: 50px;
+}
+
+.pays .drapeau {
+    width: 160px;
+    height: 100px;
+}
+
+.pays {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    top: 90px;
+    padding: 50px;
+}
+
+h5{
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.cart {
+    width: 300px;
+    height: 200px;
+    border-radius: 5%;
+}
+
+.carto {
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.cartes {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+   
+}
+
+h6 {
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.titre {
+    font-weight: bold;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.expland {
+    
+    padding: 20px;
+    border-radius: 100%;
+    font-weight: bold;
+   
+}
+
+.butt {
+    display: flex;
+    justify-content: center;
+
+}
+
+.parah6 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 18px;
+}
+
+.run img {
+    width: 700px;
+    height: 500px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.run {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.point {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+}
+
+.titr {
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+}
+
+.tit {
+    color: white;
+}
+
+.flexx {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10%;
+}
+
+
+.inputt  {
+    position: relative;
+}
+.fa-solid {
+    position: absolute;
+}
+
+.flexxx {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social img {
+    width: 250px;
+}
+
+.categories {
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.orga {
+    color: white;
+
+}
+
+.timera  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.meg {
+    color: white;
+    display: flex;
+    justify-content: center;   
+}
+
+.megas {
+    width: 600px;
+    height: 500px;
+    border-radius: 10%;
+}
+
+.mega {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10%;
+}
+
+.toute {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.apprendre {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+.apr {
+    
+
+    color: white;
+}
+
+/*
+.icones i{
+    width: 40px;
+    height: 40px;
+} */
+
+.icones i {
+    padding: 10px;
+    background-color: blue;
+    opacity: 0.2;
+    border-radius: 100%;
+    color: yellow;
+    
+}
+
+
+ .icones {
+        margin-bottom: 50px;
+        display: flex;
+        justify-content: center;
+
+}
+
+.ready {
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+}
+
+.two {
+    display: flex;
+    justify-content: space-evenly ;
+    color: white;
+    font-size: 18px;
+
+}
+
+.one {
+    width: 200px;
+    height: 50px;
+    border-radius: 50PX;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: blueviolet;
+    border: 2px solid white;
+}
+
+
+
+.twoo {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+.gif img {
+    width: 900px;
+    
+}
+
+.gif {
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-weight: bold;
+}
+
+.footer2 a {
+    color: white;
+    font-weight: bold;
+}
+
+.footer2 a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
